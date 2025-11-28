@@ -1,9 +1,17 @@
-version: "3"
+version: "3.8"
+
 services:
-  mcp-calculator:
+  xiaozhi-get-asset-price:
     build: .
-    container_name: mcp_calculator
-    ports:
-      - "9100:9000"
+    container_name: xiaozhi_getassetprice_mcp
     restart: always
 
+    # Map host port → container port
+    ports:
+      - "9102:9000"
+
+    # Lệnh chính (ghi đè CMD nhưng vẫn giữ đúng)
+    command: python mcp_pipe.py getassetprice.py
+
+    # Tự động restart nếu crash
+    restart: unless-stopped
