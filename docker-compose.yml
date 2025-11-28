@@ -4,5 +4,6 @@ services:
     build: .
     container_name: mcp_calculator
     ports:
-      - "9000:9000"
+      - "9100:9000"
     restart: always
+
