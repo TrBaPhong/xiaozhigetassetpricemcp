@@ -1,0 +1,8 @@
+version: "3"
+services:
+  mcp-calculator:
+    build: .
+    container_name: mcp_calculator
+    ports:
+      - "9000:9000"
+    restart: always

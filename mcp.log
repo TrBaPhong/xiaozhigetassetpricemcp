@@ -1,0 +1,741 @@
+2025-11-21 17:12:09,866 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:12:11,004 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:12:11,011 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-21 17:19:07,821 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-21 17:19:08,118 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-21 17:19:08,134 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-21 17:19:11,645 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:19:13,327 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:19:13,334 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-21 17:20:42,260 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:20:42,815 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:20:42,822 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:25:39,204 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:25:39,708 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:25:39,714 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:28:46,982 - MCP_PIPE - ERROR - Please set the `MCP_ENDPOINT` environment variable
+2025-11-21 17:31:18,867 - MCP_PIPE - ERROR - Please set the `MCP_ENDPOINT` environment variable
+2025-11-21 17:31:26,906 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:31:27,589 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:31:27,596 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:34:50,475 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:34:52,041 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:34:52,047 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:41:23,129 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:41:24,450 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:41:24,456 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:43:07,788 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:43:08,422 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:43:08,430 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:43:11,308 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-21 17:43:11,309 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-21 17:48:08,855 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:48:09,268 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:48:09,276 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 17:49:33,225 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 17:49:34,588 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 17:49:34,595 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 18:00:21,274 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 18:00:22,152 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 18:00:22,167 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 18:00:47,735 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 18:00:48,486 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 18:00:48,493 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 18:08:52,357 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 18:08:52,758 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 18:08:52,765 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 18:09:10,903 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 18:09:12,323 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 18:09:12,330 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-21 18:12:46,378 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: no close frame received or sent
+2025-11-21 18:12:46,378 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: no close frame received or sent
+2025-11-21 18:12:46,378 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-21 18:12:46,400 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-21 18:12:46,400 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): no close frame received or sent
+2025-11-21 18:12:46,400 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-21 18:12:46,400 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-21 18:12:46,400 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-21 18:12:48,410 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-21 18:12:48,974 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-21 18:12:48,977 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-22 07:06:23,189 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 07:06:23,991 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 07:06:24,013 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-22 07:06:34,062 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 07:06:34,062 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 07:06:34,062 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 07:06:34,099 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 07:06:34,099 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 07:06:34,099 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 07:06:34,100 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 07:06:34,100 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 07:06:36,145 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 07:06:37,077 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 07:06:37,082 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-22 10:48:04,307 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:48:05,165 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:48:05,165 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:48:05,233 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:48:05,233 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:48:15,217 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:15,217 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:15,217 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:48:15,217 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:48:15,217 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:15,217 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:48:17,225 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:48:17,429 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:48:17,429 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:48:17,504 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:48:17,504 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:48:26,848 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: [Errno 22] Invalid argument
+2025-11-22 10:48:26,912 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: [Errno 22] Invalid argument
+2025-11-22 10:48:26,912 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:48:26,912 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:48:26,912 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): [Errno 22] Invalid argument
+2025-11-22 10:48:26,912 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 10:48:30,917 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:48:31,151 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:48:31,151 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:48:31,198 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:48:31,198 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:48:41,193 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:41,193 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:41,193 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:48:41,194 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:48:41,194 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:41,194 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-22 10:48:49,208 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:48:49,440 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:48:49,456 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:48:49,506 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:48:49,506 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:48:59,520 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:59,520 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:59,520 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:48:59,520 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:48:59,520 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 4): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:48:59,520 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 16s before reconnection attempt 4...
+2025-11-22 10:49:15,523 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:49:15,737 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:49:15,743 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:49:15,797 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:49:15,797 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:49:25,768 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:49:25,768 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:49:25,768 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:49:25,768 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:49:25,768 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 5): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:49:25,768 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 32s before reconnection attempt 5...
+2025-11-22 10:49:57,774 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:49:58,113 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:49:58,129 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:49:58,179 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:49:58,179 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:50:02,079 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:50:02,126 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:50:02,126 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:50:06,790 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:50:07,065 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:50:07,065 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:50:07,112 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:50:07,112 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:50:17,109 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:17,110 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:17,110 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:50:17,110 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:50:17,110 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:17,110 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:50:19,113 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:50:19,359 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:50:19,363 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:50:19,413 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:50:19,413 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:50:25,649 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:50:25,743 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:50:25,743 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:50:29,458 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:50:29,728 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:50:29,728 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:50:29,794 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:50:29,795 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:50:39,797 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:39,797 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:39,797 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:50:39,797 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:50:39,797 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:39,814 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:50:41,814 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:50:42,011 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:50:42,027 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:50:42,074 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:50:42,074 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:50:52,063 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:52,063 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:52,063 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:50:52,063 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:50:52,063 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:50:52,063 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 10:50:56,064 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:50:56,300 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:50:56,304 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:50:56,348 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:50:56,348 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:51:06,357 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:06,358 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:06,358 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:51:06,358 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:51:06,358 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:06,358 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-22 10:51:14,359 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:51:14,588 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:51:14,588 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:51:14,633 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:51:14,633 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:51:17,971 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:51:18,015 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:51:18,015 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:51:19,765 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:51:20,067 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:51:20,067 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:51:20,184 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:51:20,184 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:51:29,651 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: [Errno 22] Invalid argument
+2025-11-22 10:51:29,708 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: [Errno 22] Invalid argument
+2025-11-22 10:51:29,708 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:51:29,708 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:51:29,709 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): [Errno 22] Invalid argument
+2025-11-22 10:51:29,709 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:51:31,716 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:51:31,951 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:51:31,951 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:51:32,011 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:51:32,011 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:51:41,994 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:41,994 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:41,994 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:51:41,994 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:51:41,994 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:41,994 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 10:51:46,000 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:51:46,231 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:51:46,236 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:51:46,286 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:51:46,286 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:51:56,272 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:56,272 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:56,272 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:51:56,273 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:51:56,273 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:51:56,273 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-22 10:52:04,283 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:52:04,527 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:52:04,530 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:52:04,569 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:52:04,569 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:52:14,586 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:52:14,586 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:52:14,586 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:52:14,586 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:52:14,586 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 4): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:52:14,586 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 16s before reconnection attempt 4...
+2025-11-22 10:52:30,602 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:52:30,825 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:52:30,825 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:52:30,872 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:52:30,872 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:52:40,878 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:52:40,878 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:52:40,878 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:52:40,878 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:52:40,878 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 5): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:52:40,878 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 32s before reconnection attempt 5...
+2025-11-22 10:53:10,507 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:53:24,705 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:53:24,970 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:53:24,970 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:53:25,036 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:53:25,036 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:53:29,017 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: [Errno 22] Invalid argument
+2025-11-22 10:53:29,088 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: [Errno 22] Invalid argument
+2025-11-22 10:53:29,088 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:53:29,088 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:53:29,088 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): [Errno 22] Invalid argument
+2025-11-22 10:53:29,088 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:53:31,102 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:53:31,325 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:53:31,325 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:53:31,372 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:53:31,372 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:53:41,379 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:53:41,379 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:53:41,379 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:53:41,379 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:53:41,379 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:53:41,379 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 10:53:42,164 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:53:52,908 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:53:53,169 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:53:53,169 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:53:53,235 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:53:53,235 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:54:03,205 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:54:03,205 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:54:03,205 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:54:03,205 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:54:03,205 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:54:03,205 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:54:05,216 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:54:05,416 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:54:05,416 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:54:05,480 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:54:05,480 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:54:07,125 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:54:07,172 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:54:07,172 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:55:51,311 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:55:51,592 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:55:51,592 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:56:01,644 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:56:01,644 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:56:01,644 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:56:01,644 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:56:01,644 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:56:01,644 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:56:01,815 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:56:01,815 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:56:03,651 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:56:03,901 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:56:03,901 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:56:17,545 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:56:17,606 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:56:17,606 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:56:26,235 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:56:26,501 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:56:26,501 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:56:26,566 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:56:26,566 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:56:28,916 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: [Errno 22] Invalid argument
+2025-11-22 10:56:28,963 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: [Errno 22] Invalid argument
+2025-11-22 10:56:28,963 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:56:28,963 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:56:28,963 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): [Errno 22] Invalid argument
+2025-11-22 10:56:28,963 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:56:30,970 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:56:31,174 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:56:31,174 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:56:31,238 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:56:31,239 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:56:41,225 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:56:41,225 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:56:41,225 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:56:41,225 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:56:41,225 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:56:41,225 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 10:56:45,239 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:56:45,444 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:56:45,444 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:56:45,508 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:56:45,509 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:56:48,941 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:56:48,983 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:56:48,984 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:56:59,532 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:56:59,824 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:56:59,832 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:56:59,871 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:56:59,871 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:57:09,877 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:57:09,877 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:57:09,877 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:57:09,877 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:57:09,877 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:57:09,877 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:57:11,882 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:57:12,071 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:57:12,071 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:57:12,149 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:57:12,149 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:57:13,309 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:57:13,371 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:57:13,371 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:57:43,521 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:57:43,787 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:57:43,787 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:57:43,852 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:57:43,852 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:57:53,851 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:57:53,851 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:57:53,851 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:57:53,851 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:57:53,851 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:57:53,851 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:57:55,860 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:57:56,078 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:57:56,078 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:57:56,142 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:57:56,142 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:58:01,190 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:58:01,253 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:58:01,253 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:58:15,973 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:58:16,442 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:58:16,458 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:58:16,505 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:58:16,505 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:58:22,566 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:58:22,634 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:58:22,634 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:58:24,774 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:58:25,040 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:58:25,055 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:58:46,120 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 10:58:46,183 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:58:46,183 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:59:15,141 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:59:15,430 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:59:15,430 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:59:25,482 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:25,482 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:25,482 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:59:25,482 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:59:25,482 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:25,482 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 10:59:25,482 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:59:25,482 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:59:27,490 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:59:27,677 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:59:27,693 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:59:37,735 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:37,735 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:37,735 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:59:37,735 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:59:37,735 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:37,735 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 10:59:37,735 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:59:37,735 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 10:59:41,750 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 10:59:41,952 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 10:59:41,956 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 10:59:52,029 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:52,029 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:52,029 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 10:59:52,029 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 10:59:52,029 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 10:59:52,029 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-22 10:59:52,029 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 10:59:52,029 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:00:00,031 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:00:00,288 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:00:00,292 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:00:10,333 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:00:10,333 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:00:10,333 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:00:10,333 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:00:10,333 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 4): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:00:10,333 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 16s before reconnection attempt 4...
+2025-11-22 11:00:10,333 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:00:10,333 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:00:26,334 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:00:26,560 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:00:26,560 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:00:36,620 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:00:36,620 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:00:36,620 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:00:36,620 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:00:36,620 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 5): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:00:36,620 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 32s before reconnection attempt 5...
+2025-11-22 11:00:36,620 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:00:36,620 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:01:08,634 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:01:08,992 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:01:09,008 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:01:18,144 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 11:01:18,191 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:01:18,191 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:01:20,953 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:01:21,219 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:01:21,234 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:01:31,277 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:31,277 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:31,277 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:01:31,277 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:01:31,277 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:31,277 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 11:01:31,277 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:01:31,277 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:01:33,277 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:01:33,509 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:01:33,509 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:01:43,575 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:43,575 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:43,575 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:01:43,575 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:01:43,575 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:43,575 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 11:01:43,575 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:01:43,575 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:01:47,579 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:01:47,798 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:01:47,814 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:01:57,857 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:57,857 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:57,857 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:01:57,857 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:01:57,857 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:01:57,857 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-22 11:01:57,857 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:01:57,857 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:02:05,868 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:02:06,071 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:02:06,071 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:02:16,113 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:02:16,113 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:02:16,114 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:02:16,114 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:02:16,114 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 4): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:02:16,114 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 16s before reconnection attempt 4...
+2025-11-22 11:02:16,114 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:02:16,114 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:02:32,129 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:02:32,348 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:02:32,348 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:02:42,395 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:02:42,395 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:02:42,395 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:02:42,395 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:02:42,395 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 5): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:02:42,395 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 32s before reconnection attempt 5...
+2025-11-22 11:02:42,395 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:02:42,395 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:03:14,405 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:03:14,582 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:03:14,582 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:03:24,632 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:03:24,632 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:03:24,632 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:03:24,632 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:03:24,632 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 6): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:03:24,632 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 64s before reconnection attempt 6...
+2025-11-22 11:03:24,632 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:03:24,632 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:03:31,323 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 11:06:47,373 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:06:47,710 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:06:47,710 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:06:47,756 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:06:47,756 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:06:57,772 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:06:57,772 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:06:57,772 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:06:57,773 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:06:57,773 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:06:57,773 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-22 11:06:59,774 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:07:00,015 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:07:00,018 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:07:00,181 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:07:00,181 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:07:10,009 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:10,009 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:10,009 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:07:10,009 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:07:10,009 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:10,009 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 11:07:14,023 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:07:14,277 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:07:14,281 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:07:14,399 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:07:14,399 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:07:24,366 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:24,366 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:24,366 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:07:24,366 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:07:24,366 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:24,366 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-22 11:07:32,383 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:07:32,605 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:07:32,609 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:07:42,634 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:42,634 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:42,634 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:07:42,651 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 11:07:42,651 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 4): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-22 11:07:42,651 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 16s before reconnection attempt 4...
+2025-11-22 11:07:42,653 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 11:07:42,653 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 11:07:58,663 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 11:07:58,978 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 11:07:58,993 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: D:\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe getcryptoprice.py
+2025-11-22 11:09:06,034 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-11-22 11:09:06,080 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 11:09:06,080 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 15:48:05,086 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: no close frame received or sent
+2025-11-22 15:48:05,092 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: no close frame received or sent
+2025-11-22 15:48:05,093 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-22 15:48:05,115 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-22 15:48:05,115 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): no close frame received or sent
+2025-11-22 15:48:05,115 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-22 15:48:05,116 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-22 15:48:05,116 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-22 15:48:09,127 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-22 15:48:09,618 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-22 15:48:09,623 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-23 06:59:57,174 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-23 06:59:57,934 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-23 06:59:57,954 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-23 07:00:07,951 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-23 07:00:07,951 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-23 07:00:07,952 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-23 07:00:07,987 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-23 07:00:07,988 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-23 07:00:07,988 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-23 07:00:07,988 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-23 07:00:07,988 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-23 07:00:10,005 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-23 07:00:10,307 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-23 07:00:10,311 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-23 07:00:20,385 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-23 07:00:20,386 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-23 07:00:20,386 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-23 07:00:20,478 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-23 07:00:20,478 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-23 07:00:20,478 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-23 07:00:20,479 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-23 07:00:20,479 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-23 07:00:24,488 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-23 07:00:24,752 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-23 07:00:24,756 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-24 07:10:33,617 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-24 07:10:35,356 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-24 07:10:35,377 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-24 07:10:45,431 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-24 07:10:45,431 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-24 07:10:45,431 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-24 07:10:45,472 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-24 07:10:45,472 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-24 07:10:45,472 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-24 07:10:45,473 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-24 07:10:45,473 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-24 07:10:47,473 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-24 07:10:47,719 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-24 07:10:47,723 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-25 07:06:16,757 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 07:06:18,212 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-25 07:06:18,236 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-25 07:06:33,972 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-25 07:06:33,973 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-25 07:06:33,973 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-25 07:06:33,990 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-25 07:06:33,991 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-25 07:06:33,991 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-25 07:06:33,991 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-25 07:06:33,991 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-25 07:06:35,994 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 07:06:45,999 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: timed out during opening handshake
+2025-11-25 07:06:45,999 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): timed out during opening handshake
+2025-11-25 07:06:45,999 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-25 07:06:50,010 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 07:07:00,018 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: timed out during opening handshake
+2025-11-25 07:07:00,018 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 3): timed out during opening handshake
+2025-11-25 07:07:00,018 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 8s before reconnection attempt 3...
+2025-11-25 07:07:08,024 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 07:07:18,032 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: timed out during opening handshake
+2025-11-25 07:07:18,032 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 4): timed out during opening handshake
+2025-11-25 07:07:18,032 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 16s before reconnection attempt 4...
+2025-11-25 07:07:34,036 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 07:07:44,039 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: timed out during opening handshake
+2025-11-25 07:07:44,039 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 5): timed out during opening handshake
+2025-11-25 07:07:44,039 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 32s before reconnection attempt 5...
+2025-11-25 07:08:16,054 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 07:08:16,472 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-25 07:08:16,476 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-25 08:51:43,110 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: no close frame received or sent
+2025-11-25 08:51:43,113 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: no close frame received or sent
+2025-11-25 08:51:43,113 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-25 08:51:43,179 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-25 08:51:43,179 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 6): no close frame received or sent
+2025-11-25 08:51:43,179 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 64s before reconnection attempt 6...
+2025-11-25 08:51:43,179 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-25 08:51:43,180 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-25 08:52:47,181 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 08:52:47,184 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: [Errno 11001] getaddrinfo failed
+2025-11-25 08:52:47,185 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 7): [Errno 11001] getaddrinfo failed
+2025-11-25 08:52:47,185 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 128s before reconnection attempt 7...
+2025-11-25 08:54:55,196 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 08:55:05,197 - MCP_PIPE - ERROR - [getcryptoprice.py] Connection error: timed out during opening handshake
+2025-11-25 08:55:05,198 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 8): timed out during opening handshake
+2025-11-25 08:55:05,198 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 256s before reconnection attempt 8...
+2025-11-25 08:59:21,204 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 08:59:21,850 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-25 08:59:21,859 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-25 09:00:12,947 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 09:00:13,369 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-25 09:00:13,376 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-25 15:13:10,405 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-25 15:13:11,169 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-25 15:13:11,189 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-26 07:03:28,542 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-26 07:03:29,560 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-26 07:03:29,567 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-26 07:03:39,631 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-26 07:03:39,631 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-26 07:03:39,631 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-26 07:03:39,675 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-26 07:03:39,675 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-26 07:03:39,675 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-26 07:03:39,675 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-26 07:03:39,676 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-26 07:03:41,688 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-26 07:03:41,939 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-26 07:03:41,942 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-27 07:07:45,805 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-27 07:07:47,024 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-27 07:07:47,046 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-27 07:07:57,237 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:07:57,240 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:07:57,240 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-27 07:07:57,294 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-27 07:07:57,294 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:07:57,295 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-27 07:07:57,295 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-27 07:07:57,295 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-27 07:07:59,307 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-27 07:07:59,645 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-27 07:07:59,648 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-27 07:08:09,768 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:08:09,768 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in process to WebSocket pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:08:09,769 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:08:09,769 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-27 07:08:09,796 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-27 07:08:09,797 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-27 07:08:09,797 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-27 07:08:09,797 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-27 07:08:13,808 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-27 07:08:14,354 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-27 07:08:14,359 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-28 07:04:23,492 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-28 07:04:24,556 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-28 07:04:24,577 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-28 07:04:34,673 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-28 07:04:34,673 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-28 07:04:34,674 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-28 07:04:34,719 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-28 07:04:34,719 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 1): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-28 07:04:34,719 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 2s before reconnection attempt 1...
+2025-11-28 07:04:34,719 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-28 07:04:34,719 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-28 07:04:36,775 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-28 07:04:37,073 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-28 07:04:37,076 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
+2025-11-28 07:04:47,232 - MCP_PIPE - ERROR - [getcryptoprice.py] Error in WebSocket to process pipe: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-28 07:04:47,232 - MCP_PIPE - ERROR - [getcryptoprice.py] WebSocket connection closed: received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-28 07:04:47,233 - MCP_PIPE - INFO - [getcryptoprice.py] Terminating server process
+2025-11-28 07:04:47,255 - MCP_PIPE - INFO - [getcryptoprice.py] Server process terminated
+2025-11-28 07:04:47,256 - MCP_PIPE - WARNING - [getcryptoprice.py] Connection closed (attempt 2): received 4004 (private use) Internal server error; then sent 4004 (private use) Internal server error
+2025-11-28 07:04:47,256 - MCP_PIPE - INFO - [getcryptoprice.py] Waiting 4s before reconnection attempt 2...
+2025-11-28 07:04:47,256 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended output
+2025-11-28 07:04:47,256 - MCP_PIPE - INFO - [getcryptoprice.py] Process has ended stderr output
+2025-11-28 07:04:51,262 - MCP_PIPE - INFO - [getcryptoprice.py] Connecting to WebSocket server...
+2025-11-28 07:04:51,516 - MCP_PIPE - INFO - [getcryptoprice.py] Successfully connected to WebSocket server
+2025-11-28 07:04:51,520 - MCP_PIPE - INFO - [getcryptoprice.py] Started server process: C:\Users\Tiger\AppData\Local\Programs\Python\Python313\python.exe getcryptoprice.py
