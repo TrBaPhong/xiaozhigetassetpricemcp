@@ -6,9 +6,10 @@
       "args": ["-m", "calculator"]
     },
     "remote-sse-server": {
-      "type": "sse",
-      "url": "http://localhost:8000/sse",
-      "disabled": false
+      "type": "sse",      
+      "command": "python",
+      "args": ["-m", "calculator"]
+      "url": "http://localhost:9102/sse"
     },
     "remote-http-server": {
       "type": "http",
@@ -17,3 +18,4 @@
     }
   }
 }
+
