@@ -9,4 +9,5 @@ COPY . .
 
 EXPOSE 9000
 
-CMD ["python", "calculator.py getassetprice.py"]
+CMD ["python", "mcp_pipe.py getassetprice.py"]
+
